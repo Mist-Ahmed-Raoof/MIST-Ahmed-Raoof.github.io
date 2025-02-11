@@ -1,0 +1,1213 @@
+{
+  "title" : "",
+  "description" : "",
+  "author" : "",
+  "targetLoudness" : -18.0,
+  "shouldApplyLoudnessNormalization" : false,
+  "videoFormatFrameRate" : 30,
+  "audioFormatSampleRate" : 44100,
+  "allowSubFrameEditing" : false,
+  "width" : 1024.0,
+  "height" : 627.0,
+  "version" : "8.0",
+  "editRate" : 705600000,
+  "authoringClientName" :  {
+    "name" : "Camtasia",
+    "platform" : "Mac",
+    "version" : "2024.1.5"
+  },
+  "sourceBin" : [
+    {
+      "id" : 1,
+      "src" : "./media/1610256917.686849/slide3_audio.wav",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20250131T224034",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 1611540],
+          "type" : 2,
+          "editRate" : 44100,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 1,
+          "integratedLUFS" : -19.9706611130829,
+          "peakLevel" : 0.878143310546875,
+          "metaData" : "slide3_audio.wav;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20250209T042424.930591"
+      }
+    },
+    {
+      "id" : 2,
+      "src" : "./media/1610256917.687071/sussana1.png",
+      "rect" : [0, 0, 265, 689],
+      "lastMod" : "20250131T224032",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 600,
+          "trackRect" : [0, 0, 265, 689],
+          "sampleRate" : 0,
+          "bitDepth" : 0,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "sussana1.png;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20250209T042424.949825"
+      }
+    },
+    {
+      "id" : 3,
+      "src" : "./media/1610256917.687251/sussana2.png",
+      "rect" : [0, 0, 348, 991],
+      "lastMod" : "20250131T224034",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 600,
+          "trackRect" : [0, 0, 348, 991],
+          "sampleRate" : 0,
+          "bitDepth" : 0,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "sussana2.png;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20250209T042424.957371"
+      }
+    },
+    {
+      "id" : 4,
+      "src" : "./media/1610256917.687425/sussana3.png",
+      "rect" : [0, 0, 364, 890],
+      "lastMod" : "20250131T224034",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 600,
+          "trackRect" : [0, 0, 364, 890],
+          "sampleRate" : 0,
+          "bitDepth" : 0,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "sussana3.png;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20250209T042424.964656"
+      }
+    },
+    {
+      "id" : 5,
+      "src" : "./media/1610256917.687595/sussana4.png",
+      "rect" : [0, 0, 415, 1059],
+      "lastMod" : "20250131T224034",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 600,
+          "trackRect" : [0, 0, 415, 1059],
+          "sampleRate" : 0,
+          "bitDepth" : 0,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "sussana4.png;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20250209T042424.983060"
+      }
+    },
+    {
+      "id" : 6,
+      "src" : "./media/1610256917.687759/sussana5.png",
+      "rect" : [0, 0, 357, 1113],
+      "lastMod" : "20250131T224034",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 600,
+          "trackRect" : [0, 0, 357, 1113],
+          "sampleRate" : 0,
+          "bitDepth" : 0,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "sussana5.png;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20250209T042424.990407"
+      }
+    },
+    {
+      "id" : 7,
+      "src" : "./media/1610256917.687923/sussana6.png",
+      "rect" : [0, 0, 241, 690],
+      "lastMod" : "20250131T224034",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 600,
+          "trackRect" : [0, 0, 241, 690],
+          "sampleRate" : 0,
+          "bitDepth" : 0,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "sussana6.png;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20250209T042424.996941"
+      }
+    },
+    {
+      "id" : 8,
+      "src" : "./media/1610256917.688109/slide3_background.png",
+      "rect" : [0, 0, 1024, 627],
+      "lastMod" : "20250131T224034",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 600,
+          "trackRect" : [0, 0, 1024, 627],
+          "sampleRate" : 0,
+          "bitDepth" : 0,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "slide3_background.png;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20250209T042425.003264"
+      }
+    },
+    {
+      "id" : 9,
+      "src" : "./media/1610257404.807313/virtualVacations_logo.png",
+      "rect" : [0, 0, 174, 180],
+      "lastMod" : "20250131T224034",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 600,
+          "trackRect" : [0, 0, 174, 180],
+          "sampleRate" : 0,
+          "bitDepth" : 0,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "virtualVacations_logo.png;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20250209T042425.012019"
+      }
+    }
+  ],
+  "timeline" : {
+    "id" : 10,
+    "sceneTrack" : {
+      "scenes" : [
+        {
+          "csml" : {
+            "tracks" : [
+              {
+                "trackIndex" : 0,
+                "medias" : [
+                  {
+                    "id" : 11,
+                    "_type" : "AMFile",
+                    "src" : 1,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "slide3_audio",
+                      "gain" : 1.0,
+                      "mixToMono" : false,
+                      "loudnessNormalization" : true,
+                      "sourceFileOffset" : 0
+                    },
+                      "channelNumber" : "0",
+                    "effects" : [
+
+                    ],
+                    "start" : 0,
+                    "duration" : 25777920000,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 25777920000,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "audiateLinkedSession" : "",
+                      "clipSpeedAttribute" : { "type": "bool", "value" : false},
+                      "colorAttribute" : { "type": "color", "value" : [ 0, 0, 0, 0]},
+                      "effectApplied" : "none"
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 1,
+                "medias" : [
+                  {
+                    "id" : 12,
+                    "_type" : "IMFile",
+                    "src" : 8,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "slide3_background"
+                    },
+                    "parameters" : {
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 0,
+                    "duration" : 25777920000,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "audiateLinkedSession" : "",
+                      "clipSpeedAttribute" : { "type": "bool", "value" : false},
+                      "colorAttribute" : { "type": "color", "value" : [ 0, 0, 0, 0]},
+                      "default-scale" : "1",
+                      "effectApplied" : "none",
+                      "lockAspectRatio" : { "type": "bool", "value" : true}
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 2,
+                "medias" : [
+                ]
+              },
+              {
+                "trackIndex" : 3,
+                "medias" : [
+                  {
+                    "id" : 13,
+                    "_type" : "IMFile",
+                    "src" : 9,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "virtualVacations_logo"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : -208.602306547619,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : 64.7886623668864,
+                        "interp" : "eioe"
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 1.35748595415178,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 1.35748595415178,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 0,
+                    "duration" : 25777920000,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "audiateLinkedSession" : "",
+                      "clipSpeedAttribute" : { "type": "bool", "value" : false},
+                      "colorAttribute" : { "type": "color", "value" : [ 0, 0, 0, 0]},
+                      "default-anchor0" : { "type": "double", "value" : 0.0},
+                      "default-anchor1" : { "type": "double", "value" : 0.0},
+                      "default-anchor2" : { "type": "double", "value" : 0.0},
+                      "default-height" : { "type": "double", "value" : 180.0},
+                      "default-rotation0" : { "type": "double", "value" : 0.0},
+                      "default-rotation1" : { "type": "double", "value" : 0.0},
+                      "default-rotation2" : { "type": "double", "value" : 0.0},
+                      "default-scale" : "1",
+                      "default-scale0" : { "type": "double", "value" : 1.0},
+                      "default-scale1" : { "type": "double", "value" : 1.0},
+                      "default-scale2" : { "type": "double", "value" : 1.0},
+                      "default-shear0" : { "type": "double", "value" : 0.0},
+                      "default-shear1" : { "type": "double", "value" : 0.0},
+                      "default-shear2" : { "type": "double", "value" : 0.0},
+                      "default-translation0" : { "type": "double", "value" : -687.40759585084},
+                      "default-translation1" : { "type": "double", "value" : -59.0516675420168},
+                      "default-translation2" : { "type": "double", "value" : 0.0},
+                      "default-width" : { "type": "double", "value" : 174.0},
+                      "effectApplied" : "none"
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 4,
+                "medias" : [
+                  {
+                    "id" : 14,
+                    "_type" : "IMFile",
+                    "src" : 2,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "sussana1"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 632.576923076923,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "endTime" : 2540160000,
+                            "time" : 423360000,
+                            "value" : 318.497928197721,
+                            "duration" : 2116800000
+                          }
+                        ]
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -7.105427357601e-15,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "endTime" : 2540160000,
+                            "time" : 423360000,
+                            "value" : -7.105427357601e-15,
+                            "duration" : 2116800000
+                          }
+                        ]
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.910014513788099,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.910014513788099,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 0,
+                    "duration" : 6279840000,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "audiateLinkedSession" : "",
+                      "clipSpeedAttribute" : { "type": "bool", "value" : false},
+                      "colorAttribute" : { "type": "color", "value" : [ 0, 0, 0, 0]},
+                      "default-height" : { "type": "double", "value" : 627.0},
+                      "default-scale" : "0.910015",
+                      "default-translation0" : { "type": "double", "value" : -679.87493434874},
+                      "default-translation1" : { "type": "double", "value" : 21.3718651523109},
+                      "default-translation2" : { "type": "double", "value" : 0.0},
+                      "default-width" : { "type": "double", "value" : 241.153846153846},
+                      "effectApplied" : "none"
+                    },
+                    "animationTracks" : {
+                      "visual" : [
+                        {
+                          "endTime" : 2540160000,
+                          "duration" : 2116800000,
+                          "range" : [ 423360000, 2116800000]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "id" : 15,
+                    "_type" : "IMFile",
+                    "src" : 3,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "sussana2"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 338.62887342437,
+                        "interp" : "eioe"
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.632694248234107,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.632694248234107,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 6279840000,
+                    "duration" : 2304960000,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "audiateLinkedSession" : "",
+                      "clipSpeedAttribute" : { "type": "bool", "value" : false},
+                      "colorAttribute" : { "type": "color", "value" : [ 0, 0, 0, 0]},
+                      "default-height" : { "type": "double", "value" : 627.0},
+                      "default-scale" : "0.632694",
+                      "default-translation0" : { "type": "double", "value" : 0.0},
+                      "default-translation1" : { "type": "double", "value" : 0.0},
+                      "default-translation2" : { "type": "double", "value" : 0.0},
+                      "default-width" : { "type": "double", "value" : 220.177598385469},
+                      "effectApplied" : "none"
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 16,
+                    "_type" : "IMFile",
+                    "src" : 4,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "sussana3"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 318.884503019958,
+                        "interp" : "eioe"
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.704494382022472,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.704494382022472,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 8584800000,
+                    "duration" : 2940000000,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "audiateLinkedSession" : "",
+                      "clipSpeedAttribute" : { "type": "bool", "value" : false},
+                      "colorAttribute" : { "type": "color", "value" : [ 0, 0, 0, 0]},
+                      "default-height" : { "type": "double", "value" : 627.0},
+                      "default-scale" : "0.704494",
+                      "default-translation0" : { "type": "double", "value" : 0.0},
+                      "default-translation1" : { "type": "double", "value" : 0.0},
+                      "default-translation2" : { "type": "double", "value" : 0.0},
+                      "default-width" : { "type": "double", "value" : 256.43595505618},
+                      "effectApplied" : "none"
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 17,
+                    "_type" : "IMFile",
+                    "src" : 5,
+                    "trackNumber" : 0,
+                    "trimStartSum" : -588000000,
+                    "attributes" : {
+                      "ident" : "sussana4"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 334.923023897059,
+                        "interp" : "eioe"
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.592067988668555,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.592067988668555,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 11524800000,
+                    "duration" : 4116000000,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "audiateLinkedSession" : "",
+                      "clipSpeedAttribute" : { "type": "bool", "value" : false},
+                      "colorAttribute" : { "type": "color", "value" : [ 0, 0, 0, 0]},
+                      "default-height" : { "type": "double", "value" : 627.0},
+                      "default-scale" : "0.592068",
+                      "default-translation0" : { "type": "double", "value" : 0.0},
+                      "default-translation1" : { "type": "double", "value" : 0.0},
+                      "default-translation2" : { "type": "double", "value" : 0.0},
+                      "default-width" : { "type": "double", "value" : 245.70821529745},
+                      "effectApplied" : "none"
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 18,
+                    "_type" : "IMFile",
+                    "src" : 3,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "sussana2"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 348.036452862395,
+                        "interp" : "eioe"
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.632694248234107,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.632694248234107,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 15640800000,
+                    "duration" : 5150880000,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "audiateLinkedSession" : "",
+                      "clipSpeedAttribute" : { "type": "bool", "value" : false},
+                      "colorAttribute" : { "type": "color", "value" : [ 0, 0, 0, 0]},
+                      "default-height" : { "type": "double", "value" : 627.0},
+                      "default-scale" : "0.632694",
+                      "default-translation0" : { "type": "double", "value" : 0.0},
+                      "default-translation1" : { "type": "double", "value" : 0.0},
+                      "default-translation2" : { "type": "double", "value" : 0.0},
+                      "default-width" : { "type": "double", "value" : 220.177598385469},
+                      "effectApplied" : "none"
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 19,
+                    "_type" : "IMFile",
+                    "src" : 7,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 399840000,
+                    "attributes" : {
+                      "ident" : "sussana6"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 326.488642331933,
+                        "interp" : "eioe"
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.908695652173913,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.908695652173913,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 20791680000,
+                    "duration" : 1999200000,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "audiateLinkedSession" : "",
+                      "clipSpeedAttribute" : { "type": "bool", "value" : false},
+                      "colorAttribute" : { "type": "color", "value" : [ 0, 0, 0, 0]},
+                      "default-height" : { "type": "double", "value" : 627.0},
+                      "default-scale" : "0.908696",
+                      "default-translation0" : { "type": "double", "value" : 0.0},
+                      "default-translation1" : { "type": "double", "value" : 0.0},
+                      "default-translation2" : { "type": "double", "value" : 0.0},
+                      "default-width" : { "type": "double", "value" : 218.995652173913},
+                      "effectApplied" : "none"
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 20,
+                    "_type" : "IMFile",
+                    "src" : 6,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "sussana5"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 307.843930540966,
+                        "interp" : "eioe"
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.563342318059299,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.563342318059299,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 22790880000,
+                    "duration" : 2987040000,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "audiateLinkedSession" : "",
+                      "clipSpeedAttribute" : { "type": "bool", "value" : false},
+                      "colorAttribute" : { "type": "color", "value" : [ 0, 0, 0, 0]},
+                      "default-height" : { "type": "double", "value" : 627.0},
+                      "default-scale" : "0.563342",
+                      "default-translation0" : { "type": "double", "value" : 0.0},
+                      "default-translation1" : { "type": "double", "value" : 0.0},
+                      "default-translation2" : { "type": "double", "value" : 0.0},
+                      "default-width" : { "type": "double", "value" : 201.11320754717},
+                      "effectApplied" : "none"
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ],
+                "transitions" : [
+                  {
+                    "name" : "Fade",
+                    "duration" : 705600000,
+                    "rightMedia" : 14,
+                    "attributes" : {
+                      "bypass" : false,
+                      "reverse" : false,
+                      "trivial" : false,
+                      "useAudioPreRoll" : true,
+                      "useVisualPreRoll" : true
+                    }
+
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 352800000,
+                    "leftMedia" : 14,
+                    "rightMedia" : 15,
+                    "attributes" : {
+                      "bypass" : false,
+                      "reverse" : false,
+                      "trivial" : false,
+                      "useAudioPreRoll" : true,
+                      "useVisualPreRoll" : true
+                    }
+
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 352800000,
+                    "leftMedia" : 15,
+                    "rightMedia" : 16,
+                    "attributes" : {
+                      "bypass" : false,
+                      "reverse" : false,
+                      "trivial" : false,
+                      "useAudioPreRoll" : true,
+                      "useVisualPreRoll" : true
+                    }
+
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 658560000,
+                    "leftMedia" : 16,
+                    "rightMedia" : 17,
+                    "attributes" : {
+                      "bypass" : false,
+                      "reverse" : false,
+                      "trivial" : false,
+                      "useAudioPreRoll" : true,
+                      "useVisualPreRoll" : true
+                    }
+
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 446880000,
+                    "leftMedia" : 17,
+                    "attributes" : {
+                      "bypass" : false,
+                      "reverse" : false,
+                      "trivial" : false,
+                      "useAudioPreRoll" : true,
+                      "useVisualPreRoll" : true
+                    }
+
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 705600000,
+                    "rightMedia" : 18,
+                    "attributes" : {
+                      "bypass" : false,
+                      "reverse" : false,
+                      "trivial" : false,
+                      "useAudioPreRoll" : true,
+                      "useVisualPreRoll" : true
+                    }
+
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 705600000,
+                    "leftMedia" : 18,
+                    "attributes" : {
+                      "bypass" : false,
+                      "reverse" : false,
+                      "trivial" : false,
+                      "useAudioPreRoll" : true,
+                      "useVisualPreRoll" : true
+                    }
+
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 329280000,
+                    "rightMedia" : 19,
+                    "attributes" : {
+                      "bypass" : false,
+                      "reverse" : false,
+                      "trivial" : false,
+                      "useAudioPreRoll" : true,
+                      "useVisualPreRoll" : true
+                    }
+
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 376320000,
+                    "leftMedia" : 19,
+                    "attributes" : {
+                      "bypass" : false,
+                      "reverse" : false,
+                      "trivial" : false,
+                      "useAudioPreRoll" : true,
+                      "useVisualPreRoll" : true
+                    }
+
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 446880000,
+                    "rightMedia" : 20,
+                    "attributes" : {
+                      "bypass" : false,
+                      "reverse" : false,
+                      "trivial" : false,
+                      "useAudioPreRoll" : true,
+                      "useVisualPreRoll" : true
+                    }
+
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 705600000,
+                    "leftMedia" : 20,
+                    "attributes" : {
+                      "bypass" : false,
+                      "reverse" : false,
+                      "trivial" : false,
+                      "useAudioPreRoll" : true,
+                      "useVisualPreRoll" : true
+                    }
+
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 5,
+                "medias" : [
+                ]
+              }            ]
+          }
+        }
+      ]
+    },
+    "trackAttributes" : [
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "solo" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "trackHeight" : "48"
+        }
+      },
+      {
+        "ident" : "Audio",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "solo" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "trackHeight" : "48"
+        }
+      },
+      {
+        "ident" : "Track 1",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "solo" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "trackHeight" : "48"
+        }
+      },
+      {
+        "ident" : "Track 2",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "solo" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "trackHeight" : "48"
+        }
+      },
+      {
+        "ident" : "Track 3",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "solo" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "trackHeight" : "48"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "solo" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "trackHeight" : "48"
+        }
+      }
+    ],
+    "captionAttributes" : {
+      "enabled" : true,
+      "fontName" : "Arial",
+      "fontSize" : 32,
+      "backgroundColor" : [ 0, 0, 0, 204],
+      "foregroundColor" : [ 255, 255, 255, 255],
+      "lang" : "en",
+      "alignment" : 0,
+      "defaultFontSize" : true,
+      "opacity" : 0.5,
+      "backgroundEnabled" : true,
+      "backgroundOnlyAroundText" : true
+    },
+    "gain" : 1.0,
+    "legacyAttenuateAudioMix" : false,
+    "backgroundColor" : [ 0, 0, 0, 255]
+  },
+  "metadata" : {
+    "ProjectThumbnail" : "iVBORw0KGgoAAAANSUhEUgAAAksAAAFnCAYAAAC2Ow3SAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAACS6ADAAQAAAABAAABZwAAAABOsh2YAAARU0lEQVR4Ae3WsQ2AQAwEQfP99wwEH1pbwSCRvLPRBfvMzPv/PgIECBAgQIAAgUXgLG+eCBAgQIAAAQIEroBYMgUCBAgQIECAQAiIpcBxIkCAAAECBAiIJRsgQIAAAQIECISAWAocJwIECBAgQICAWLIBAgQIECBAgEAIiKXAcSJAgAABAgQIiCUbIECAAAECBAiEgFgKHCcCBAgQIECAgFiyAQIECBAgQIBACIilwHEiQIAAAQIECIglGyBAgAABAgQIhIBYChwnAgQIECBAgIBYsgECBAgQIECAQAiIpcBxIkCAAAECBAiIJRsgQIAAAQIECISAWAocJwIECBAgQICAWLIBAgQIECBAgEAIiKXAcSJAgAABAgQIiCUbIECAAAECBAiEgFgKHCcCBAgQIECAgFiyAQIECBAgQIBACIilwHEiQIAAAQIECIglGyBAgAABAgQIhIBYChwnAgQIECBAgIBYsgECBAgQIECAQAiIpcBxIkCAAAECBAiIJRsgQIAAAQIECISAWAocJwIECBAgQICAWLIBAgQIECBAgEAIiKXAcSJAgAABAgQIiCUbIECAAAECBAiEgFgKHCcCBAgQIECAgFiyAQIECBAgQIBACIilwHEiQIAAAQIECIglGyBAgAABAgQIhIBYChwnAgQIECBAgIBYsgECBAgQIECAQAiIpcBxIkCAAAECBAiIJRsgQIAAAQIECISAWAocJwIECBAgQICAWLIBAgQIECBAgEAIiKXAcSJAgAABAgQIiCUbIECAAAECBAiEgFgKHCcCBAgQIECAgFiyAQIECBAgQIBACIilwHEiQIAAAQIECIglGyBAgAABAgQIhIBYChwnAgQIECBAgIBYsgECBAgQIECAQAiIpcBxIkCAAAECBAiIJRsgQIAAAQIECISAWAocJwIECBAgQICAWLIBAgQIECBAgEAIiKXAcSJAgAABAgQIiCUbIECAAAECBAiEgFgKHCcCBAgQIECAgFiyAQIECBAgQIBACIilwHEiQIAAAQIECIglGyBAgAABAgQIhIBYChwnAgQIECBAgIBYsgECBAgQIECAQAiIpcBxIkCAAAECBAiIJRsgQIAAAQIECISAWAocJwIECBAgQICAWLIBAgQIECBAgEAIiKXAcSJAgAABAgQIiCUbIECAAAECBAiEgFgKHCcCBAgQIECAgFiyAQIECBAgQIBACIilwHEiQIAAAQIECIglGyBAgAABAgQIhIBYChwnAgQIECBAgIBYsgECBAgQIECAQAiIpcBxIkCAAAECBAiIJRsgQIAAAQIECISAWAocJwIECBAgQICAWLIBAgQIECBAgEAIiKXAcSJAgAABAgQIiCUbIECAAAECBAiEgFgKHCcCBAgQIECAgFiyAQIECBAgQIBACIilwHEiQIAAAQIECIglGyBAgAABAgQIhIBYChwnAgQIECBAgIBYsgECBAgQIECAQAiIpcBxIkCAAAECBAiIJRsgQIAAAQIECISAWAocJwIECBAgQICAWLIBAgQIECBAgEAIiKXAcSJAgAABAgQIiCUbIECAAAECBAiEgFgKHCcCBAgQIECAgFiyAQIECBAgQIBACIilwHEiQIAAAQIECIglGyBAgAABAgQIhIBYChwnAgQIECBAgIBYsgECBAgQIECAQAiIpcBxIkCAAAECBAiIJRsgQIAAAQIECISAWAocJwIECBAgQICAWLIBAgQIECBAgEAIiKXAcSJAgAABAgQIiCUbIECAAAECBAiEgFgKHCcCBAgQIECAgFiyAQIECBAgQIBACIilwHEiQIAAAQIECIglGyBAgAABAgQIhIBYChwnAgQIECBAgIBYsgECBAgQIECAQAiIpcBxIkCAAAECBAiIJRsgQIAAAQIECISAWAocJwIECBAgQICAWLIBAgQIECBAgEAIiKXAcSJAgAABAgQIiCUbIECAAAECBAiEgFgKHCcCBAgQIECAgFiyAQIECBAgQIBACIilwHEiQIAAAQIECIglGyBAgAABAgQIhIBYChwnAgQIECBAgIBYsgECBAgQIECAQAiIpcBxIkCAAAECBAiIJRsgQIAAAQIECISAWAocJwIECBAgQICAWLIBAgQIECBAgEAIiKXAcSJAgAABAgQIiCUbIECAAAECBAiEgFgKHCcCBAgQIECAgFiyAQIECBAgQIBACIilwHEiQIAAAQIECIglGyBAgAABAgQIhIBYChwnAgQIECBAgIBYsgECBAgQIECAQAiIpcBxIkCAAAECBAiIJRsgQIAAAQIECISAWAocJwIECBAgQICAWLIBAgQIECBAgEAIiKXAcSJAgAABAgQIiCUbIECAAAECBAiEgFgKHCcCBAgQIECAgFiyAQIECBAgQIBACIilwHEiQIAAAQIECIglGyBAgAABAgQIhIBYChwnAgQIECBAgIBYsgECBAgQIECAQAiIpcBxIkCAAAECBAiIJRsgQIAAAQIECISAWAocJwIECBAgQICAWLIBAgQIECBAgEAIiKXAcSJAgAABAgQIiCUbIECAAAECBAiEgFgKHCcCBAgQIECAgFiyAQIECBAgQIBACIilwHEiQIAAAQIECIglGyBAgAABAgQIhIBYChwnAgQIECBAgIBYsgECBAgQIECAQAiIpcBxIkCAAAECBAiIJRsgQIAAAQIECISAWAocJwIECBAgQICAWLIBAgQIECBAgEAIiKXAcSJAgAABAgQIiCUbIECAAAECBAiEgFgKHCcCBAgQIECAgFiyAQIECBAgQIBACIilwHEiQIAAAQIECIglGyBAgAABAgQIhIBYChwnAgQIECBAgIBYsgECBAgQIECAQAiIpcBxIkCAAAECBAiIJRsgQIAAAQIECISAWAocJwIECBAgQICAWLIBAgQIECBAgEAIiKXAcSJAgAABAgQIiCUbIECAAAECBAiEgFgKHCcCBAgQIECAgFiyAQIECBAgQIBACIilwHEiQIAAAQIECIglGyBAgAABAgQIhIBYChwnAgQIECBAgIBYsgECBAgQIECAQAiIpcBxIkCAAAECBAiIJRsgQIAAAQIECISAWAocJwIECBAgQICAWLIBAgQIECBAgEAIiKXAcSJAgAABAgQIiCUbIECAAAECBAiEgFgKHCcCBAgQIECAgFiyAQIECBAgQIBACIilwHEiQIAAAQIECIglGyBAgAABAgQIhIBYChwnAgQIECBAgIBYsgECBAgQIECAQAiIpcBxIkCAAAECBAiIJRsgQIAAAQIECISAWAocJwIECBAgQICAWLIBAgQIECBAgEAIiKXAcSJAgAABAgQIiCUbIECAAAECBAiEgFgKHCcCBAgQIECAgFiyAQIECBAgQIBACIilwHEiQIAAAQIECIglGyBAgAABAgQIhIBYChwnAgQIECBAgIBYsgECBAgQIECAQAiIpcBxIkCAAAECBAiIJRsgQIAAAQIECISAWAocJwIECBAgQICAWLIBAgQIECBAgEAIiKXAcSJAgAABAgQIiCUbIECAAAECBAiEgFgKHCcCBAgQIECAgFiyAQIECBAgQIBACIilwHEiQIAAAQIECIglGyBAgAABAgQIhIBYChwnAgQIECBAgIBYsgECBAgQIECAQAiIpcBxIkCAAAECBAiIJRsgQIAAAQIECISAWAocJwIECBAgQICAWLIBAgQIECBAgEAIiKXAcSJAgAABAgQIiCUbIECAAAECBAiEgFgKHCcCBAgQIECAgFiyAQIECBAgQIBACIilwHEiQIAAAQIECIglGyBAgAABAgQIhIBYChwnAgQIECBAgIBYsgECBAgQIECAQAiIpcBxIkCAAAECBAiIJRsgQIAAAQIECISAWAocJwIECBAgQICAWLIBAgQIECBAgEAIiKXAcSJAgAABAgQIiCUbIECAAAECBAiEgFgKHCcCBAgQIECAgFiyAQIECBAgQIBACIilwHEiQIAAAQIECIglGyBAgAABAgQIhIBYChwnAgQIECBAgIBYsgECBAgQIECAQAiIpcBxIkCAAAECBAiIJRsgQIAAAQIECISAWAocJwIECBAgQICAWLIBAgQIECBAgEAIiKXAcSJAgAABAgQIiCUbIECAAAECBAiEgFgKHCcCBAgQIECAgFiyAQIECBAgQIBACIilwHEiQIAAAQIECIglGyBAgAABAgQIhIBYChwnAgQIECBAgIBYsgECBAgQIECAQAiIpcBxIkCAAAECBAiIJRsgQIAAAQIECISAWAocJwIECBAgQICAWLIBAgQIECBAgEAIiKXAcSJAgAABAgQIiCUbIECAAAECBAiEgFgKHCcCBAgQIECAgFiyAQIECBAgQIBACIilwHEiQIAAAQIECIglGyBAgAABAgQIhIBYChwnAgQIECBAgIBYsgECBAgQIECAQAiIpcBxIkCAAAECBAiIJRsgQIAAAQIECISAWAocJwIECBAgQICAWLIBAgQIECBAgEAIiKXAcSJAgAABAgQIiCUbIECAAAECBAiEgFgKHCcCBAgQIECAgFiyAQIECBAgQIBACIilwHEiQIAAAQIECIglGyBAgAABAgQIhIBYChwnAgQIECBAgIBYsgECBAgQIECAQAiIpcBxIkCAAAECBAiIJRsgQIAAAQIECISAWAocJwIECBAgQICAWLIBAgQIECBAgEAIiKXAcSJAgAABAgQIiCUbIECAAAECBAiEgFgKHCcCBAgQIECAgFiyAQIECBAgQIBACIilwHEiQIAAAQIECIglGyBAgAABAgQIhIBYChwnAgQIECBAgIBYsgECBAgQIECAQAiIpcBxIkCAAAECBAiIJRsgQIAAAQIECISAWAocJwIECBAgQICAWLIBAgQIECBAgEAIiKXAcSJAgAABAgQIiCUbIECAAAECBAiEgFgKHCcCBAgQIECAgFiyAQIECBAgQIBACIilwHEiQIAAAQIECIglGyBAgAABAgQIhIBYChwnAgQIECBAgIBYsgECBAgQIECAQAiIpcBxIkCAAAECBAiIJRsgQIAAAQIECISAWAocJwIECBAgQICAWLIBAgQIECBAgEAIiKXAcSJAgAABAgQIiCUbIECAAAECBAiEgFgKHCcCBAgQIECAgFiyAQIECBAgQIBACIilwHEiQIAAAQIECIglGyBAgAABAgQIhIBYChwnAgQIECBAgIBYsgECBAgQIECAQAiIpcBxIkCAAAECBAiIJRsgQIAAAQIECISAWAocJwIECBAgQICAWLIBAgQIECBAgEAIiKXAcSJAgAABAgQIiCUbIECAAAECBAiEgFgKHCcCBAgQIECAgFiyAQIECBAgQIBACIilwHEiQIAAAQIECIglGyBAgAABAgQIhIBYChwnAgQIECBAgIBYsgECBAgQIECAQAiIpcBxIkCAAAECBAiIJRsgQIAAAQIECISAWAocJwIECBAgQICAWLIBAgQIECBAgEAIiKXAcSJAgAABAgQIiCUbIECAAAECBAiEgFgKHCcCBAgQIECAgFiyAQIECBAgQIBACIilwHEiQIAAAQIECIglGyBAgAABAgQIhIBYChwnAgQIECBAgIBYsgECBAgQIECAQAiIpcBxIkCAAAECBAiIJRsgQIAAAQIECISAWAocJwIECBAgQICAWLIBAgQIECBAgEAIiKXAcSJAgAABAgQIiCUbIECAAAECBAiEgFgKHCcCBAgQIECAgFiyAQIECBAgQIBACIilwHEiQIAAAQIECIglGyBAgAABAgQIhIBYChwnAgQIECBAgIBYsgECBAgQIECAQAiIpcBxIkCAAAECBAiIJRsgQIAAAQIECISAWAocJwIECBAgQICAWLIBAgQIECBAgEAIiKXAcSJAgAABAgQIiCUbIECAAAECBAiEgFgKHCcCBAgQIECAgFiyAQIECBAgQIBACHxepgPNtBROQgAAAABJRU5ErkJggg==",
+    "RulerGuidesX" : [],
+    "RulerGuidesY" : [],
+    "RulerShowing" : { "type": "bool", "value" : false},
+    "activeThemeId" : "e59eeb42-ccf0-4a36-bdf9-e630fdab686d",
+    "firstMedia" : { "type": "bool", "value" : true},
+    "hasNotifiedAboutHFRMedia" : { "type": "bool", "value" : false},
+    "projectDuration" : "00:36"
+  }
+}
